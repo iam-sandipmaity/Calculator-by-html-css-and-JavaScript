@@ -29,7 +29,7 @@ Calculator-Project/
 ## How to Use
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/Calculator-Project.git
+    https://github.com/iam-sandipmaity/Calculator-by-html-css-and-JavaScript.git
    ```
 2. Open the `index.html` file in your web browser.
 3. Use the buttons to perform arithmetic operations.
